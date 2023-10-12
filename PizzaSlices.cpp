@@ -10,13 +10,13 @@ int main()
 {
     const double PI = 3.14,
                  SLICE_SIZE = 14.125;   // Sq. inches in each slice
-    //make changes
+
     double pizzaDiameter,       // Diameter of the pizza (in inches)
            pizzaRadius,         // Radius of the pizza (in inches)
            pizzaArea,           // Area of the pizza (in sq. inches)
            slicesPerPizza;      // Number of slice to cut pizza into
 
-    
+    //fergie's changes
     // Display results
     cout << "Fill in your code";  // Display result to nearest whole number
     cout << "Cut this pizza into " << "Fill in your variable name" << " slices." << endl;
